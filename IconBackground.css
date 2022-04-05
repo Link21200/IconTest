@@ -1,6 +1,6 @@
 @import url(https://github.com/Link21200/IconTest/blob/main/IconTest.css);
-//@import url(https://mwittrien.github.io/BetterDiscordAddons/Themes/_res/UsrBgs.css);
-//@import url(https://mwittrien.github.io/BetterDiscordAddons/Themes/BlurpleRecolor/BlurpleRecolor.css);
+@import url(https://mwittrien.github.io/BetterDiscordAddons/Themes/_res/UsrBgs.css);
+@import url(https://mwittrien.github.io/BetterDiscordAddons/Themes/BlurpleRecolor/BlurpleRecolor.css);
 
 :root {
 	--transparencycolor:			0,0,0;
